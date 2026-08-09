@@ -1,5 +1,7 @@
 # UAD Clone
 
+***Abandoned and useless in this state***
+
 A rust based GUI tool to debloat android devices using ADB.
 
 ## Dependencies
